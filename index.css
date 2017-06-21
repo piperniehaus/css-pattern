@@ -1,0 +1,20 @@
+.container{
+  position: relative;
+}
+.horizontal{
+    display: flex;
+    flex-direction: row;
+}
+.vertical{
+    flex-direction: column;
+}
+
+.border {
+  margin: 2px;
+  box-sizing: border-box;
+}
+
+.pullLeft{
+  position: relative;
+  right: -40;
+}
