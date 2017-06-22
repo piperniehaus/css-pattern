@@ -1,6 +1,4 @@
-.container{
-  position: relative;
-}
+
 .horizontal{
     display: flex;
     flex-direction: row;
@@ -12,9 +10,4 @@
 .border {
   margin: 2px;
   box-sizing: border-box;
-}
-
-.pullLeft{
-  position: relative;
-  right: -40;
 }

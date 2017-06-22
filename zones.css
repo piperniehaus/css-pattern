@@ -1,0 +1,41 @@
+.container{
+  position: absolute;
+  height: 100%;
+  width: 400px;
+}
+.zone1{
+  background: yellow;
+  height: 120px;
+  width: 400px;
+  position: absolute
+}
+.zone2{
+  background: blue;
+  height: 280px;
+  width: 140px;
+  left: 260px;
+  top: 120px;
+  position: absolute
+
+}
+.zone3{
+  background: orange;
+  width: 320px;
+  position: absolute;
+  height: 180px;
+  top: 120px;
+}
+.zone4{
+  background: green;
+  width: 280px;
+  height: 120px;
+  top: 280px;
+  position: absolute;
+}
+
+.zone1,
+.zone2,
+.zone3,
+.zone4{
+  opacity: 0.3;
+}
