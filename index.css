@@ -11,3 +11,15 @@
   margin: 2px;
   box-sizing: border-box;
 }
+
+.pullRight {
+  margin-left: auto;
+}
+
+.pullLeft {
+  margin-right: auto;
+}
+
+.pullDown {
+  margin-top: auto;
+}

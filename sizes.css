@@ -10,10 +10,16 @@
   height: 60px;
   width: 60px;
 }
+.extraLarge{
+  height: 80px;
+  width: 80px;
+}
 
 .small,
 .medium,
-.large{
+.large,
+.extraLarge{
   border: 2px solid black;
   box-sizing: border-box;
+  opacity: 0.5;
 }
