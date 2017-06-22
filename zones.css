@@ -5,16 +5,16 @@
 }
 .zone1{
   background: yellow;
-  height: 120px;
+  height: 400px;
   width: 400px;
   position: absolute
 }
 .zone2{
   background: blue;
   height: 280px;
-  width: 140px;
-  left: 260px;
-  top: 120px;
+  width: 80px;
+  left: 320px;
+  top: 40px;
   position: absolute
 
 }
